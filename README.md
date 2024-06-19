@@ -40,6 +40,8 @@ Schedule the Lambda function to run at intervals that suit your operational need
 4. **Monitor Execution:**
 Monitor CloudWatch Logs for insights into snapshot evaluation and deletion activities. Set up alerts to notify of any unexpected issues.
 
+**Result**: ![image](https://github.com/pavan-chintala/cloud-cost-optimization/assets/121234035/b0a9e0bf-47cf-47e6-8736-5a625ed654d8)
+
 **Conclusion 🌟** 
 
 Managing AWS resources efficiently is essential for controlling costs and maintaining a streamlined infrastructure. By automating the identification and deletion of stale EBS snapshots, this project contributes to a more cost-effective cloud environment while ensuring that backup and recovery capabilities remain intact.
